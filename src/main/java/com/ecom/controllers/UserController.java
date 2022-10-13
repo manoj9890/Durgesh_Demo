@@ -25,6 +25,8 @@ import com.ecom.services.UserService;
 @RequestMapping("/users")
 public class UserController {
 
+// His Related changes
+   Private String ename ='Sanjay His 200';
 	@Autowired
 	private UserService userService;
 
